@@ -66,10 +66,6 @@ If you are trying to **benchmark** the performance of the model under finetuning
 
 We are dedicated to ensuring the reproducility of our results, and would be happy to help clarify questions about benchmarking our model or about the experiments in the paper.
 If you have questions, it would be best to create an issue in the GitHub repository.
-
-
-
-
 ```
 
 
