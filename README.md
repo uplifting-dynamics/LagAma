@@ -67,19 +67,9 @@ If you are trying to **benchmark** the performance of the model under finetuning
 We are dedicated to ensuring the reproducility of our results, and would be happy to help clarify questions about benchmarking our model or about the experiments in the paper.
 If you have questions, it would be best to create an issue in the GitHub repository.
 
-## Citing this work
 
-Please use the following Bibtex entry to cite Lag-Llama.
 
-```
-@misc{rasul2024lagllama,
-      title={Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting}, 
-      author={Kashif Rasul and Arjun Ashok and Andrew Robert Williams and Hena Ghonia and Rishika Bhagwatkar and Arian Khorasani and Mohammad Javad Darvishi Bayazi and George Adamopoulos and Roland Riachi and Nadhir Hassen and Marin Biloš and Sahil Garg and Anderson Schneider and Nicolas Chapados and Alexandre Drouin and Valentina Zantedeschi and Yuriy Nevmyvaka and Irina Rish},
-      year={2024},
-      eprint={2310.08278},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
+
 ```
 
 
